@@ -1,8 +1,8 @@
 I'm starting a second act: working towards becoming a full stack web developer. I remember learning some rudimentary skills back in the Geocities days, but didn't catch the coding bug until recently. I started out with online tutorials learning the web development basics: HTML, CSS, and JavaScript. 
 
-With Cedar Mountain Software I have found a great opportunity to dig into learning MySQL and Symfony. I leverage my skill carried over from retail to help create flexible solutions for our clients.
+With Cedar Mountain Software I found a great opportunity to dig into learning MySQL and Symfony. I get to leverage my skills carried over from retail to help create flexible solutions for our clients.
 
-I recently started learning with Promineo Tech to better my web development skills. In their 18 week front end boot camp, I am learning JavaScript, HTML, CSS, and React.js.
+I recently started learning with Promineo Tech to better my web development skills. In their 18 week front end boot camp, I will be learning JavaScript, HTML, CSS, and React.js.
 
 <!--
 **wlsaylor/wlsaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
